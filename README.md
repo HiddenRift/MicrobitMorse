@@ -23,7 +23,7 @@ How to build:
 How to use:
 
 1. With 2 Batteries connect 1 to each MicroBit
-2. Use 2 corocodile clips, connecting 1 to each of the Pin1 connections on the MicroBits and the other to each GND pin
+2. Use 2 crocodile clips, connecting 1 to each of the Pin1 connections on the MicroBits and the other to each GND pin
 3. On the MicroBit you wish to send the message from use morse code or the provided map in the code to contruct the message; A buttonA press is a dot/0 and long hold is a dash/1. Once all dots and dashes for a character have been enetered, press buttonB, this notifies the MicroBit to expect a new character. To enter a space, end an empty character (don't enter dots/dashes between 2 buttonB presses).
 4. Once the message is finished, hold buttonB. If another MicroBit is connected, a LED in the centre of the grid will light up else an edge LED will. This will then start transmission.
 5. On the receiving MicroBit, the message will translate and scroll across the LED grid.
